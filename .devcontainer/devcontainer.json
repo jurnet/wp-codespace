@@ -19,7 +19,8 @@
 				"dbaeumer.vscode-eslint",
 				"neilbrayfield.php-docblocker",
 				"shevaua.phpcs",
-				"ms-vscode.makefile-tools"
+				"ms-vscode.makefile-tools",
+		                "GitHub.copilot"
 			]
 		}
 	},
